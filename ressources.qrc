@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file>git.png</file>
+        <file>gsb.png</file>
+        <file>gsb2.png</file>
+        <file>doc.ico</file>
+        <file>med.ico</file>
+        <file>vis.ico</file>
+        <file>vis2.ico</file>
+        <file>quit2.ico</file>
+        <file>add+.png</file>
+        <file>del+.png</file>
+        <file>modif+.png</file>
+        <file>new1.ico</file>
+        <file>validModif.png</file>
+    </qresource>
+</RCC>
